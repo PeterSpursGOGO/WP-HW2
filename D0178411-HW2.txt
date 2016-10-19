@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<style>
+		table, th, td{
+			border: 1px solid black;
+		}
+	</style>
+	</head>
+	<body>
+	<table>
+		<caption>課表</caption>
+		<tr>
+			<th align=right>星期<br><align=left>時間</th>
+			<th>一</th>
+			<th>二</th>
+			<th>三</th>
+			<th>四</th>
+			<th>五</th>
+		</tr>
+		<tr>
+			<td>8:10-9:00  </td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>9:10-10:00  </td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>10:10-11:00</td>
+			<td></td>
+			<td rowspan="2">資料<br>倉儲</td>
+			<td></td>
+			<td>資料倉儲</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>11:10-12:00</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>13:10-14:00</td>
+			<td></td>
+			<td rowspan="2">程式<br>語言</td>
+			<td>資料結構</td>
+			<td rowspan="2">資料<br>結構</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>14:10-15:00</td>
+			<td></td>
+			<td></td>
+			<td>程式語言</td>
+		</tr>
+		<tr>
+			<td>15:10-16:00</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>16:10-17:00</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+	</table>
+	</body>
+</html>
